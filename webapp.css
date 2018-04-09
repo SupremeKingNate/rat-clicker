@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#store {
+	background-color: white;
+	float: left;
+}
+
+#rightCol {
+	float: right;
+}
+
+#leftCol {
+	float: left;
+}
+
+body {
+	background-image: url("blue.jpg");
+	background-size:2000px;
+	background-repeat: no-repeat;
+}
+#score {
+	text-align: right;
+}
+
+h1 {
+	color: red;
+	
+	}
+
+#store {
+	font-family: fantasy; 
+
+	color: red;
+}
+ 
+
+
+/* stats text align, fonts, and color*/
+#stats {
+	font-family: fantasy;
+	color: red;
+	
+
+
+}
+/* wrapper color and fonts*/
+#wrapper {
+	font-family: cursive;
+	color: red;
+}
+#score {
+	font-size:36px;
+}
